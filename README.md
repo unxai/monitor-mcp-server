@@ -1,4 +1,4 @@
-# System Monitor MCP Server
+# Monitor MCP Server
 
 这是一个基于MCP (Message Control Protocol) 的系统监控服务器，可以监控Mac系统的CPU、内存和磁盘使用情况。
 

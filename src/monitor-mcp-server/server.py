@@ -4,7 +4,7 @@ import psutil
 from mcp.server.fastmcp import FastMCP
 
 # 初始化 FastMCP server
-mcp = FastMCP("system_monitor")
+mcp = FastMCP("monitor-mcp-server")
 
 @mcp.tool()
 def get_cpu_info() -> Dict[str, Any]:
